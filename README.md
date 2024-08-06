@@ -1,4 +1,4 @@
-### Branislav Hesko
+### About me
 
  - Senior Machine Learning Engineer at Tescan Orsay Holding and freelancer.
  - Specializing in computer vision and 3D analysis. 
